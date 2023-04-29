@@ -12,6 +12,8 @@ The connection details and file paths are defined in a separate file called `con
 ## Usage
 To run the script, navigate to the directory where the script is saved and run the following command:
 
-```python python paramiko_script.py```
+```
+python paramiko_script.py
+```
 
 If you encounter any issues, make sure to check that the connection details and file paths in `connection_details.py` are correct.
